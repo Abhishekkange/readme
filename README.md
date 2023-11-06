@@ -1,4 +1,4 @@
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjz-PStVSfePVk76AOLmubx7m1kLezTq9JLHl4G1fa9y7GSNla0NwnvwoDSKsn_oQkJ8Ikap0BGUbUyIdxjLw4QlxWvM5DqcXvBuXo6PvA32JzX_rRYEPlRtO9NzuVzlemWNpBxQQrrImlDaeEY5uqWimi2RTjHavJlQhv-VrLX2gyZKdFW7hLWgP9R1s/w549-h412/Leonardo_Vision_XL_a_skilled_programmer_student_is_sitting_in_1.jpg" align="left" height="400" width="600" />  
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjz-PStVSfePVk76AOLmubx7m1kLezTq9JLHl4G1fa9y7GSNla0NwnvwoDSKsn_oQkJ8Ikap0BGUbUyIdxjLw4QlxWvM5DqcXvBuXo6PvA32JzX_rRYEPlRtO9NzuVzlemWNpBxQQrrImlDaeEY5uqWimi2RTjHavJlQhv-VrLX2gyZKdFW7hLWgP9R1s/w549-h412/Leonardo_Vision_XL_a_skilled_programmer_student_is_sitting_in_1.jpg" align="left" height="500" width="2000" />  
   
 
 ## Hey 👋, I'm Abhishek Kange  
